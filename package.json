@@ -1,6 +1,6 @@
 {
-  "homepage": "https://sagar-pawade.github.io/image-search-app/",
-  "name": "image-search-app",
+  "homepage": "https://sagar-pawade.github.io/image-search-engine/",
+  "name": "image-search-engine",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
